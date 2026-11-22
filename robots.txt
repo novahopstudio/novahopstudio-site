@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://novahopstudio.com/sitemap.xml
